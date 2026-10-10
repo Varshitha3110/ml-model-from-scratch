@@ -102,6 +102,3 @@ The training script prints the dataset shape, test accuracy, confusion matrix, c
 
 ## Author
 Workshop materials by Varshitha.
-
-## License
-Add a license if you want others to reuse or redistribute this repository. For a public teaching repository, the MIT License is a common permissive option; only add it if that matches your intentions.
